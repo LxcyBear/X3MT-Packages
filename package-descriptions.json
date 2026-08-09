@@ -21,5 +21,7 @@
   "XBL.Kyuubi": "Client package for the XBL.Kyuubi Xbox Live stealth service.",
   "XBLKyuubi": "Client package for the XBLKyuubi Xbox Live stealth service.",
   "XBLS": "Xbox Live stealth service client package.",
+
+  "General.Plugins": "RPC, XDRPC, XBDM, etc.",
   "xbNetwork": "Client package for the xbNetwork Xbox Live stealth service."
 }
