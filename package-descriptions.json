@@ -13,6 +13,7 @@
   "HDDx.Fixer": "Quick utility for setting up HDDx for Xbox Original support.",
   "NXE2GOD": "Play installed GoD games without the disc.",
   "XeXMenu": "The classic file manager and executables launcher.",
+  "Netflix": "A modified version of Netflix not requiring an XBL connection.",
 
   "CipherLive": "Client package for the CipherLive Xbox Live stealth service.",
   "Infinite": "Client package for the Infinite Xbox Live stealth service.",
@@ -22,5 +23,7 @@
   "XBLKyuubi": "Client package for the XBLKyuubi Xbox Live stealth service.",
   "XBLS": "Xbox Live stealth service client package.",
   "xbNetwork": "Client package for the xbNetwork Xbox Live stealth service.",
-  "General.Plugins": "RPC, XDRPC, XBDM, etc."
+  "General.Plugins": "RPC, XDRPC, XBDM, etc.",
+
+  "SNES360.Enchanced": "A updated version of the SNES360 emulator."
 }
