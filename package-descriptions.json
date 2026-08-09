@@ -1,0 +1,25 @@
+{
+  "Aurora": "Modern replacement dashboard with game library browsing and launcher features.",
+  "Emerald": "Alternative replacement dashboard and shell environment for modified Xbox 360 consoles.",
+  "Freestyle": "Classic Freestyle Dash replacement dashboard with game library and launcher features.",
+  "IngeniouX": "Alternative replacement dashboard and shell environment for modified Xbox 360 consoles.",
+  "Viper360": "Alternative replacement dashboard and shell environment for modified Xbox 360 consoles.",
+  "Xenu": "Alternative replacement dashboard and shell environment for modified Xbox 360 consoles.",
+  "XeXLoader": "Classic XEX loader and homebrew launcher packaged as a dashboard-style environment.",
+
+  "FFPlay": "Media playback utility for supported audio and video formats.",
+  "Flasher": "Flash and NAND utility package for modified Xbox 360 consoles.",
+  "GOD.Unlocker": "Utility for unlocking Games on Demand containers on modified Xbox 360 consoles.",
+  "HDDx.Fixer": "Utility for repairing or restoring HDDX compatibility on Xbox 360 hard drives.",
+  "NXE2GOD": "Converts installed NXE game content into Games on Demand-style content.",
+  "XeXMenu": "File manager and XEX launcher for modified Xbox 360 consoles.",
+
+  "CipherLive": "Client package for the CipherLive Xbox Live stealth service.",
+  "Infinite": "Client package for the Infinite Xbox Live stealth service.",
+  "TetheredLive": "Client package for the TetheredLive Xbox Live stealth service.",
+  "XbGuard": "Client package for the XbGuard Xbox Live stealth service.",
+  "XBL.Kyuubi": "Client package for the XBL.Kyuubi Xbox Live stealth service.",
+  "XBLKyuubi": "Client package for the XBLKyuubi Xbox Live stealth service.",
+  "XBLS": "Xbox Live stealth service client package.",
+  "xbNetwork": "Client package for the xbNetwork Xbox Live stealth service."
+}
