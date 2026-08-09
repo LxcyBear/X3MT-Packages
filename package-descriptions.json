@@ -12,7 +12,7 @@
   "GOD.Unlocker": "Utility for unlocking Games on Demand containers.",
   "HDDx.Fixer": "Quick utility for setting up HDDx for Xbox Original support.",
   "NXE2GOD": "Play installed GoD games without the disc.",
-  "XeXMenu": "The classic file manager and executables launcher.",
+  "XeXMenu": "The classic file manager and executable launcher.",
   "Netflix": "A modified version of Netflix not requiring an XBL connection.",
 
   "CipherLive": "Client package for the CipherLive Xbox Live stealth service.",
@@ -25,5 +25,5 @@
   "xbNetwork": "Client package for the xbNetwork Xbox Live stealth service.",
   "General.Plugins": "RPC, XDRPC, XBDM, etc.",
 
-  "SNES360.Enchanced": "A updated version of the SNES360 emulator."
+  "SNES360.Enhanced": "An updated version of the SNES360 emulator."
 }
