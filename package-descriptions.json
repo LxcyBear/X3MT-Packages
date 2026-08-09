@@ -13,7 +13,12 @@
   "HDDx.Fixer": "Quick utility for setting up HDDx for Xbox Original support.",
   "NXE2GOD": "Play installed GoD games without the disc.",
   "XeXMenu": "The classic file manager and executable launcher.",
+  "XM360": "Manage and unlock all of GoD content.",
+  "XPG.Chameleon": "",
+  "XNA.Offline": "",
   "Netflix": "A modified version of Netflix not requiring an XBL connection.",
+  "Lightshow": "Debug and create patterns with your console's ROL LEDs.",
+  "GamePad36ster": "Test out all your gamepad controls on your Xbox 360 or custom controller natively.",
 
   "CipherLive": "Client package for the CipherLive Xbox Live stealth service.",
   "Infinite": "Client package for the Infinite Xbox Live stealth service.",
@@ -31,6 +36,8 @@
   "UsbdSecPatch": "Enables modern XInput controller use.",
 
   "SNES360.Enhanced": "An updated version of the SNES360 emulator.",
+  "Amiga360": "Play all of your Amiga titles with the Amiga360 emulator.",
+  "DosBox": "DOSBOX. It doesn't get more old school than that you boomer.",
 
   "Hacked.Compatibility.Files": "Build of the latest hacked Xbox Original compatibility files.",
   "Original.Compatibility.Files": "Latest copy of the original Xbox Original compatibility files.",
